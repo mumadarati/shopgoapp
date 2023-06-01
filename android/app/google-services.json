@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "466502768318",
+    "project_id": "shopgoapp-24eab",
+    "storage_bucket": "shopgoapp-24eab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466502768318:android:29fb984f87ec753ac370ef",
+        "android_client_info": {
+          "package_name": "co.proglabs.shop_go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466502768318-bv773orp7vn7ak7u34al032q6n11iptk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.proglabs.shop_go",
+            "certificate_hash": "bd903f1edf02d1056987290940dbcc2450430c93"
+          }
+        },
+        {
+          "client_id": "466502768318-m5jtmc1dguviudc286423ldk7ep18tjd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.proglabs.shop_go",
+            "certificate_hash": "456401ed6960cb8315458c369945ecff455cf5d8"
+          }
+        },
+        {
+          "client_id": "466502768318-05ecjj9u13uv4mb7e68llbic7juac2ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB3Y8-aToj41zb-9pCkSryqfhkQbN0xzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466502768318-05ecjj9u13uv4mb7e68llbic7juac2ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
